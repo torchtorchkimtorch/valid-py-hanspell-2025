@@ -13,23 +13,11 @@ py-hanspell은 네이버 맞춤법 검사기를 이용한 파이썬용 한글 �
 
 ## 설치
 
-설치하는 방법으로는 두 가지 방법이 있습니다.
 
-우선 pip를 이용해 설치하는 방법이 있습니다. 
-커맨드 라인에 다음 명령어를 입력하시면 자동으로 설치가 진행됩니다
 
 ```bash
-$ pip install py-hanspell
+$ git clone https://github.com/torchtorchkimtorch/valid-py-hanspell-2025.git
 ```
-
-다음으로 이 GitHub 저장소에서 직접 내려받아 설치하는 방법입니다. 이 저장소를 로컬에 clone 하거나 우측에 보이는 메뉴에서 zip 파일로 다운받은 후에 로컬 커맨드 라인에
-
-```bash
-$ python setup.py install
-```
-
-를 입력하시거나, 또는 hanspell 폴더를 자신의 프로젝트 폴더 안에 포함시키면 됩니다.
-
 ### 필요한 라이브러리
 
 - requests
