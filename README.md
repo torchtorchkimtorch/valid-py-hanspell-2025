@@ -2,12 +2,7 @@
 
 이 repo는 https://github.com/ssut/py-hanspell를 fork한 뒤, 네이버 맞춤법 검사기 API가 `passportKey` 인증을 요구하는 문제를 해결하기 위해 수정되었습니다. 2025년 9월 1일 기준 동일한 메커니즘으로 동작합니다. 
 
-[![Build Status](https://travis-ci.org/ssut/py-hanspell.svg?branch=master)](https://travis-ci.org/ssut/py-hanspell)
-[![PyPI version](https://badge.fury.io/py/py-hanspell.svg)](http://badge.fury.io/py/py-hanspell)
-
 py-hanspell은 네이버 맞춤법 검사기를 이용한 파이썬용 한글 맞춤법 검사 라이브러리입니다.
-
-파이썬 2.7 및 3.4 모두 호환됩니다.
 
 ---
 
